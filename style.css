@@ -32,10 +32,10 @@ p {
 
 .column1 {
   float: right;
-  width: 30%;
+  width: 200px;
 }
 
 .column2 {
   float: left;
-  width: 70%;
+  width: 100%;
 }
