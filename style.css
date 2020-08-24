@@ -27,6 +27,10 @@ p {
   margin: 90px, 90px, 90px, 90px;
 }
 
+a {
+  color: white;
+}
+
 .row {
   display: flex;
 }
