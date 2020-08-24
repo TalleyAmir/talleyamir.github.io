@@ -6,18 +6,19 @@ body {
 
 h1 {
   color: white;
-  font: Optima;
+  font-family: Optima;
   text-align: center;
 }
 
 h2 {
   color: white;
-  font: Geneva;
+  font-family: Optima;
   text-align: center;
 }
 
 p {
   color: white;
+  font-family: Geneva;
   text-align: center;
 }
 
