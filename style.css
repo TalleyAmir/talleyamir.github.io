@@ -12,5 +12,6 @@ h1 {
 }
 
 .column {
-  flex: 50%;
+  float: left;
+  width: 50%;
 }
