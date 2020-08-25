@@ -9,8 +9,9 @@ body {
 }
 
 div {
-  background-color: black;
+  background-color: mediumblue;
   border-radius: 25px;
+  opacity: 0.5;
 }
 
 h1 {
