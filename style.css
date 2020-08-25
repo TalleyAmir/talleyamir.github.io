@@ -1,12 +1,15 @@
 body {
-  /*background-image: url('background.jpg');*/
-  background-color: black;
+  background-image: url('background.jpg');
   background-position: center;
   background-size: cover;
   margin-left: 150px;
   margin-right: 150px;
   background-repeat: no-repeat;
   background-attachment: fixed;
+}
+
+div {
+  background-color: black;
 }
 
 h1 {
