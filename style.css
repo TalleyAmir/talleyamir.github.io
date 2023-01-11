@@ -4,19 +4,19 @@ body {
 
 h1 {
   color: white;
-  font-family: Georgia, serif;
+  font-family: 'Courier New', monospace;
   text-align: center;
 }
 
 h2 {
   color: white;
-  font-family: Georgia, serif;
+  font-family: 'Courier New', monospace;
   text-align: left;
 }
 
 p {
   color: white;
-  font-family: Georgia, serif;
+  font-family: 'Courier New', monospace;
   text-align: left;
 }
 
