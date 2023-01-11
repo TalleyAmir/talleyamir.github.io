@@ -35,8 +35,8 @@ a {
   width: 425px;
   padding-top: 25px;
   padding-bottom: 25px;
-  padding-left: 90px;
-  padding-right: 50px;
+  padding-left: 100px;
+  padding-right: 40px;
 }
 
 .column2 {
@@ -44,6 +44,6 @@ a {
   width: 875px;
   padding-top: 25px;
   padding-bottom: 25px;
-  padding-left: 50px;
-  padding-right: 90px;
+  padding-left: 40px;
+  padding-right: 100px;
 }
